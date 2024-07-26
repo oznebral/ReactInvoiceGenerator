@@ -18,6 +18,3 @@ An Invoice builder project built with React. Add itemized items, configure quant
 ### Meta
 
 Ebral Özen – [ozenebral@gmail.com]
-# InvoiceGenerator
-# ReactInvoiceGenerator
-# ReactInvoiceGenerator
